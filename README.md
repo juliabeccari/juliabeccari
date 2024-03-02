@@ -14,3 +14,8 @@
   <img width="35%" src="https://github.com/juliabeccari/juliabeccari/assets/148507114/5260b863-8efc-4574-aee9-2d5601cf23c8">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliabeccari/juliabeccari/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliabeccari/juliabeccari/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juliabeccari/juliabeccari/output/github-contribution-grid-snake.svg">
+</picture>
