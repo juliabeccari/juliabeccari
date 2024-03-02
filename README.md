@@ -8,10 +8,10 @@
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliabeccari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeccari&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br> <br>
+<br>
     
 <div align= "center">
-  <img width="35%" src="https://github.com/juliabeccari/juliabeccari/assets/148507114/5260b863-8efc-4574-aee9-2d5601cf23c8">
+  <img width=100% src= "https://capsule-render.vercel.app/api?type=soft&height=1&color=FA6B93"/>
 </div>
 
 <picture>
@@ -19,3 +19,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliabeccari/juliabeccari/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juliabeccari/juliabeccari/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img width="8%" src="https://github.com/juliabeccari/juliabeccari/assets/148507114/cff2bb54-0b34-4ca4-aca8-2c9cf9ab16a7">
+</div>
