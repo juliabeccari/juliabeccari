@@ -19,6 +19,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliabeccari/juliabeccari/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/juliabeccari/juliabeccari/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
 
 <div align="center">
   <img width="8%" src="https://github.com/juliabeccari/juliabeccari/assets/148507114/cff2bb54-0b34-4ca4-aca8-2c9cf9ab16a7">
