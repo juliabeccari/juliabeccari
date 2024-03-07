@@ -4,7 +4,7 @@
   
 <!--github stats-->
 <div align ="center">
-  <a href="https://github.com/Zplinio18">
+  <a href="https://github.com/juliabeccari">
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliabeccari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabeccari&layout=compact&langs_count=7&theme=dracula"/>
 </div>
